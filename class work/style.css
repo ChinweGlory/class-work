@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    
+}
+
+nav {
+    width: auto;
+    margin: 0;
+}
+
+
+
+body {
+    background-color: lightpink
+}
+
+
+nav ul {
+    margin: 3rem;
+    padding: 10px;  
+    display: flex;
+    list-style: none;
+    align-items: center;
+    
+    
+}
+
+.nav-list .fif {
+    display: flex;
+    padding: 20px;
+    color: red;
+    font-family: fantasy;
+    padding-right: 15%;
+
+}
+
+
+.nav-list li a {
+    font-size: 4rem;
+    color: green;
+    display: flex;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 20px;
+    justify-content: center;
+    border: 5rem;
+    
+}
+
+a:hover {
+    background-color: whitesmoke;
+}
+
+.no-3 {
+    padding: 15px;
+    color: re;
+    border-radius: 20px;
+    margin-left: 30%;
+    
+}
+
+
+h1 {
+    font-size: 5rem;
+    color: coral;
+    padding: 1rem;
+    text-align: center;
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5rem;
+    color: darkslategray;
+    font-family: cursive;
+    margin-bottom: 3rem;
+}
+
+
+
+.button {
+    text-align: center;
+    display: block;
+
+}
+
+
+
+.no-1 {
+    background-color: aqua;
+    border-radius: 20px;
+    margin-right: 10%;
+    padding: 15px ;
+    
+    
+    
+    
+    
+  }
+
+.no-2 {
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    
+    
+    
+    
+    
+    
+}
+
+button:hover {
+    background-color:darkgreen;
+}
